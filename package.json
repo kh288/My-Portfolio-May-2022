@@ -1,0 +1,21 @@
+{
+  "name": "my-portfolio-may-2022",
+  "version": "1.0.0",
+  "description": "## License MIT License",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh288/My-Portfolio-May-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kh288/My-Portfolio-May-2022/issues"
+  },
+  "homepage": "https://github.com/kh288/My-Portfolio-May-2022#readme"
+}
