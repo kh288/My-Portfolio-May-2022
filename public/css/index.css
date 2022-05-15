@@ -3,7 +3,11 @@
     --mute-white: #ddd;
 }
 
-html {
+/* html {
     background-color: var(--dark-grey);
     color: var(--mute-white);
+} */
+
+.main-project, .carousel-projects {
+    max-width: 800px;
 }
