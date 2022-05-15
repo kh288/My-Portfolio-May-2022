@@ -1,0 +1,9 @@
+:root {
+    --dark-grey: #333;
+    --mute-white: #ddd;
+}
+
+html {
+    background-color: var(--dark-grey);
+    color: var(--mute-white);
+}
