@@ -2,7 +2,16 @@
     --dark-grey: #333;
     --mute-white: #ddd;
 }
+main {
+    max-width: 60em;
+}
+
+.card,
+.navbar {
+    box-shadow: 0 0 1em 0em #333;
+    box-shadow: 0 0 1em 0em #333;
+}
 
 .card {
- max-width: 800px;
+    /* max-width: 50em; */
 }
