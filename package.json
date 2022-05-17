@@ -1,37 +1,29 @@
 {
-    "name": "my-portfolio-may-2022",
-    "version": "1.0.0",
-    "description": "## License MIT License",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js",
-        "nodemon": "nodemon server.js localhost 3001",
-        "lint": "npx eslint **/*.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kh288/My-Portfolio-May-2022.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/kh288/My-Portfolio-May-2022/issues"
-    },
-    "homepage": "https://github.com/kh288/My-Portfolio-May-2022#readme",
-    "dependencies": {
-        "dotenv": "^16.0.1",
-        "express": "^4.18.1",
-        "nodemon": "^2.0.16",
-        "path": "^0.12.7"
-    },
-    "devDependencies": {
-        "eslint": "^8.15.0",
-        "eslint-config-node": "^4.1.0",
-        "eslint-config-prettier": "^8.5.0",
-        "eslint-plugin-node": "^11.1.0",
-        "eslint-plugin-prettier": "^4.0.0",
-        "prettier": "^2.6.2"
-    }
+  "name": "my-portfolio-may-2022",
+  "version": "1.0.0",
+  "description": "## License MIT License",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "nodemon": "nodemon server.js localhost 3001",
+    "lint": "npx eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh288/My-Portfolio-May-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kh288/My-Portfolio-May-2022/issues"
+  },
+  "homepage": "https://github.com/kh288/My-Portfolio-May-2022#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  }
 }
