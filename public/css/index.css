@@ -6,10 +6,10 @@ main {
     max-width: 60em;
 }
 
-.card,
+/* .card,
 .navbar {
-    box-shadow: 0 0 1em 0 #111;
-}
+    box-shadow: 0 .25em .5em 0 #333;
+} */
 
 /* .carousel {
     max-width: 30em;
