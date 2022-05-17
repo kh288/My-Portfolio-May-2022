@@ -11,9 +11,9 @@ main {
     box-shadow: 0 0 1em 0 #333;
 }
 
-.carousel {
-    max-width: 20em;
-}
+/* .carousel {
+    max-width: 30em;
+} */
 
 /* #carouselExampleControls {
     margin: 1em;
