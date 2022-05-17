@@ -2,20 +2,24 @@
 
 ## Table of Content 📕
 * [Description](#description)
-* [Features](#features)
 * [Examples](#examples)
 * [Install](#install)
 * [Usage](#usage)
 * [License](#license)  
   
 # Description 📝
+This is my personal portfolio. Here you can find my recent projects, technologies I use, email, github, linkedin and my resume.
 
-# Features 
- 
+If you're interested in working on a project, please contact me, I have a deployed link here for you to see my stuff yourself!
+
+Deployed link: https://kevin-portfolio-may-2022.herokuapp.com/
+
 # Examples 
 
-![Example Description](/link/to/image.png)
-Deployed link: https://kevin-portfolio-may-2022.herokuapp.com/
+![Image of the deployed link](/readme/01-main.png)
+![GIF of the carousel images for featured project](/readme/02-burger.gif)
+![GIF of scrolling through the page](/readme/03-scroll.gif)
+![GIF of resizing the page](/readme/04-resize.gif)
 
 # Install 💾
 Download or clone repository to use this application on local machine.
@@ -24,9 +28,10 @@ Node.js and MySQL are required to run the application
 To install necessary dependencies, navigate to the root directory and run the following command: `npm i` or `npm install`
 
 # Technology 🎛
-* JavaScript
+* HTML, CSS
+* Bootstrap
+* Express
 * Node.js
-* SQL
 
 # Contact 🧑‍💻
 
@@ -35,4 +40,6 @@ To install necessary dependencies, navigate to the root directory and run the fo
   
   
 # License 🪪
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) Copyright 2022, Kevin Hernandez
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Copyright 2022, Kevin Hernandez
